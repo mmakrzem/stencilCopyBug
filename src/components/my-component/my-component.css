@@ -1,0 +1,5 @@
+:host .image {
+  width: 150px;
+  height: 150px;
+  content: url( 'assets/images/readOnlyImage.jpg' ); 
+}
