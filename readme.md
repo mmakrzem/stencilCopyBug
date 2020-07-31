@@ -10,4 +10,4 @@ Steps to reproduce the bug:
 Now you see the build error:
 
 Build Error
-EPERM: operation not permitted, copyfile 'D:\_CompanyWork\Maplesoft\webWork\_dummy\st-1-17-2-copyBug\src\assets\images\readOnlyImage.jpg' -> 'D:\_CompanyWork\Maplesoft\webWork\_dummy\st-1-17-2-copyBug\www\assets\images\readOnlyImage.jpg'
+EPERM: operation not permitted, copyfile 'C:\st-1-17-2-copyBug\src\assets\images\readOnlyImage.jpg' -> 'C:\st-1-17-2-copyBug\www\assets\images\readOnlyImage.jpg'
